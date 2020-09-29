@@ -1,0 +1,5 @@
+Python 3.7 or greater
+PyQt5
+python-chess
+
+stockfish may need to be installed on the Raspberry Pi and the path in Control.py changed to point to the executable
